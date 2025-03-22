@@ -1,0 +1,87 @@
+.about-button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 1000px;
+  transition: 0.5s;
+  box-shadow: black 5px 5px 5px;
+}
+.about-button:hover {
+  background-color: blue
+   
+}
+.about-button:active {
+  background-color: green;
+}
+
+.skills-button {
+    background-color:blue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 1000px;
+    transition: 0.5s;
+  }
+  .skills-buttona:hover {
+    background-color: violet
+     
+  }
+  .skills-button:active {
+    background-color: green;
+  }
+  .project-button {
+    background-color: yellowgreen;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 1px;
+    transition: 0.5s;
+  }
+  .project-button:hover {
+    background-color: orange
+     
+  }
+  .project-button:active {
+    background-color: green;
+  }
+  .contact-button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 1000px;
+    transition: 0.5s;
+  }
+  .contact-button:hover {
+    background-color: blue
+     
+  }
+  .contact-button:active {
+    background-color: green;
+  }
+  
